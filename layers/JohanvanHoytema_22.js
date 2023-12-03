@@ -1,0 +1,1 @@
+var json_JohanvanHoytema_22 = {"type":"FeatureCollection","name":"JohanvanHoytema_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Hogere Burger School","Tahun":"1920","Alamat":"Jl. Belitung No.8"},"geometry":{"type":"Point","coordinates":[107.615242553874424,-6.912276319841163]}}]}

@@ -1,0 +1,1 @@
+var json_FrancoisCousin_9 = {"type":"FeatureCollection","name":"FrancoisCousin_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Stasiun Bandoeng (renovasi) dan peringatan 50 jaar SS","Tahun":"1928","Alamat":null},"geometry":{"type":"Point","coordinates":[107.602427499533732,-6.914715762061237]}}]}

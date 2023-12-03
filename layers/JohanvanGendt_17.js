@@ -1,0 +1,1 @@
+var json_JohanvanGendt_17 = {"type":"FeatureCollection","name":"JohanvanGendt_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Kantor pos","Tahun":"1928","Alamat":"Jl. Asia Afrika No.49"},"geometry":{"type":"Point","coordinates":[107.606179202072212,-6.920763943240194]}}]}

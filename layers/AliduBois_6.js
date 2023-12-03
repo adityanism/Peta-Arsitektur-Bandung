@@ -1,0 +1,1 @@
+var json_AliduBois_6 = {"type":"FeatureCollection","name":"AliduBois_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Koningin Wilhelmina Gasthuis untuk penyakit mata","Tahun":"1910","Alamat":"Tjitjendoweg 4"},"geometry":{"type":"Point","coordinates":[107.604470918827602,-6.910170507818741]}}]}
