@@ -1,0 +1,1 @@
+var json_FreekDicke_14 = {"type":"FeatureCollection","name":"FreekDicke_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Javasche Bank (gudang bawah tanah)","Tahun":"1937","Alamat":null},"geometry":{"type":"Point","coordinates":[107.60931760570999,-6.914374049825648]}}]}
