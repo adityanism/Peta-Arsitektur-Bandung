@@ -1,0 +1,1 @@
+var json_HeinvonEssen_17 = {"type":"FeatureCollection","name":"HeinvonEssen_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Gem. Juliana Ziekenhuis (rumah sakit)","Tahun":"1919","Alamat":"Jl. Pasteur No.38"},"geometry":{"type":"Point","coordinates":[107.598392775859011,-6.89985999379589]}}]}

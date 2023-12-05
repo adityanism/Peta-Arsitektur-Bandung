@@ -1,0 +1,1 @@
+var json_RijkRijksen_34 = {"type":"FeatureCollection","name":"RijkRijksen_34","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"Sekolah M.U.L.O. Sint Aloysius","Tahun":"1931","Alamat":"Jl. Sultan Agung No.4"},"geometry":{"type":"Point","coordinates":[107.612133916406663,-6.904944437095998]}}]}

@@ -1,0 +1,1 @@
+var json_AtVrijburg_40 = {"type":"FeatureCollection","name":"AtVrijburg_40","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"At Vrijburg","Tahun":"1937","Alamat":"Jl. Belitung No.10"},"geometry":{"type":"Point","coordinates":[107.616215068888067,-6.91244670102241]}}]}

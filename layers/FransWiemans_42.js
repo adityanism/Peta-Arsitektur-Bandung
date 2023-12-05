@@ -1,0 +1,1 @@
+var json_FransWiemans_42 = {"type":"FeatureCollection","name":"FransWiemans_42","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ket":"NILLMIJ","Tahun":"1922","Alamat":"Jl. Asia Afrika No.53"},"geometry":{"type":"Point","coordinates":[107.606800714884372,-6.920919405581209]}}]}
